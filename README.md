@@ -17,20 +17,21 @@ cd backend_test_homework/
 ls # должны получить список файлов
 ```
 4. Развёртываем виртуальное окружение (работаем в VSCode):
-  * для Mac или Linux:
+* для Mac или Linux:
   ```
   $ python3 -m venv venv
   ```
-  * для Windows:
+* для Windows:
   ```
   $ python -m venv venv
   ```
-5. Зпускаем виртуальное окружение:
-  * для Mac или Linux:
+5. Запускаем виртуальное окружение:
+* для Mac или Linux:
   ```
   $ source venv/bin/activate
   ```
-  * для Windows:
+  
+* для Windows:
   ```
   $ source venv/Scripts/activate
   ```
